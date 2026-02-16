@@ -7,7 +7,7 @@
     "base64url": "^3.0.1",
     "express": "^4.17.1",
     "sqlite3": "^5.0.2",
-    "uuid4": "^2.0.2"
+    "uuid4": "^2.0.3"
   },
   "devDependencies": {},
   "scripts": {
